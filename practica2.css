@@ -1,6 +1,7 @@
 body {
     background: url("https://images.pexels.com/photos/7629490/pexels-photo-7629490.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"); background-repeat: no-repeat; background-size: cover; 
     background-repeat: no-repeat;
+    margin: auto;
 }
 
 .box {
@@ -19,7 +20,7 @@ body {
     
 } 
 
-.texto1 {
+p {
     font-size: 13px;
     text-align: start 20px;
 }
@@ -32,9 +33,4 @@ body {
     border-radius: 4px;
     font-size: small;
     padding-top: 10px;
-h1
-
-
-    
-
 }
